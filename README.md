@@ -57,10 +57,10 @@ beautyeye 界面UI的包,可以到./bin目录下去找
 windows系统运行./bin/run.bat
 linux,mac运行./bin/sh.bat
 
-![image](/hyberbin/CompareExcel/tree/master/pic/选择在对比的文件.png)
+![image](/hyberbin/CompareExcel/tree/master/pic/1.png)
 
-![image](/hyberbin/CompareExcel/tree/master/pic/选择要比较的项.png)
+![image](/hyberbin/CompareExcel/tree/master/pic/2.png)
 
-![image](/hyberbin/CompareExcel/tree/master/pic/选择在对比的文件.png)
+![image](/hyberbin/CompareExcel/tree/master/pic/3.png)
 
-![image](/hyberbin/CompareExcel/tree/master/pic/标记过的Excel.png)
+![image](/hyberbin/CompareExcel/tree/master/pic/4.png)
