@@ -14,6 +14,9 @@ hyberbin是某公司薪酬岗人员,每次做工资条的时候都是心惊胆�
 
 同样还可以应用于考勤,等表格数据的比较
 
+
+#依赖说明
+
 ```xml
 
 <dependencies>
@@ -40,8 +43,6 @@ hyberbin是某公司薪酬岗人员,每次做工资条的时候都是心惊胆�
 </dependencies>
 
 ```
-
-#依赖说明
 J-Excel 操作Excel的包,地址:https://github.com/hyberbin/J-Excel.git
 
 J-hyberbin 操作sqlite数据库的包,用户上一次的一些设置会自动保存在本地sqlite数据中,地址:https://github.com/hyberbin/J-hyberbin.git
